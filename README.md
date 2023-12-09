@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shailendra Raulji</h1>
-<h3>A Sofwatre Developer from Sait </h3>
+<h3>ITS SAIT student </h3>
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -11,9 +11,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ## 🧐 More About Me:
 - 🔭 &nbsp; I’m have worked on **Petify**
 - 🌱 &nbsp; I’m currently learning Flutter off the course; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/NirbhayVachhani)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sheel009)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/nirbhay-vachhani-1a360820b/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sheel-raulji-3957b81b5/)
 - 📝 &nbsp; Checkout my [resume](https://www.canva.com/design/DAE9TQWRs8Q/l8-M3Lj-fD75ZZgWu8hGYQ/view?utm_content=DAE9TQWRs8Q&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
 <br>
@@ -35,5 +35,5 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ## 💰Support
 
-<p><a href="https://www.buymeacoffee.com/nirbhay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nirbhay" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sheel009"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nirbhay" /></a></p><br><br>
 <br>
